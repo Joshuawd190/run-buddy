@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
 
@@ -17,4 +17,4 @@ https://Joshuawd190.github.io/run-buddy/
 
 Made with ❤️ by Joshua Wood
 
-### Run Buddy, Inc
+### ©️2019 Run Buddy, Inc
