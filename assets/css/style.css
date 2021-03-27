@@ -10,6 +10,10 @@
 .text-right {
   text-align: right;
 }
+
+.flex-row {
+  display: flex;
+}
 body {
   font-family: Helvetica, Arial, sans-serif;
   color: #39a6b2;
@@ -155,6 +159,7 @@ section h3 {
   width: 80%;
   font-size: 20px;
   margin: 0 auto;
+  text-align: center;
 }
 .steps {
   text-align: center;
@@ -186,6 +191,10 @@ section h3 {
   padding: 0 100px 20px 100px;
   border-bottom: 3px solid;
   display: inline-block;
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 0 auto 35px auto;
+  width: 50%;
 }
 .primary-border {
   border-color: #fce138;
